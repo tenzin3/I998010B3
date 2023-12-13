@@ -1,0 +1,75 @@
+{
+    "id": "928371c2275944d6bdcdc18f91227c74",
+    "annotation_type": "index",
+    "revision": "00001",
+    "annotations": {
+        "83f429a54e564bbc9fe60c31e504d8fa": {
+            "base": "C8EC.txt",
+            "Chapters": [
+                {
+                    "title": "Title",
+                    "span": {
+                        "start": 0,
+                        "end": 279
+                    }
+                },
+                {
+                    "title": "Preface",
+                    "span": {
+                        "start": 280,
+                        "end": 9746
+                    }
+                },
+                {
+                    "title": "Chapters I-V",
+                    "span": {
+                        "start": 9747,
+                        "end": 170146
+                    }
+                },
+                {
+                    "title": "Chapters VI-X",
+                    "span": {
+                        "start": 170147,
+                        "end": 309453
+                    }
+                },
+                {
+                    "title": "Chapters XI-XV",
+                    "span": {
+                        "start": 309454,
+                        "end": 310002
+                    }
+                },
+                {
+                    "title": "Chapters XVI-XX",
+                    "span": {
+                        "start": 310003,
+                        "end": 310992
+                    }
+                },
+                {
+                    "title": "Chapters XXI-XXV",
+                    "span": {
+                        "start": 310993,
+                        "end": 312433
+                    }
+                },
+                {
+                    "title": "Chapters XXVI-XXVII",
+                    "span": {
+                        "start": 312434,
+                        "end": 312917
+                    }
+                },
+                {
+                    "title": "Colophon",
+                    "span": {
+                        "start": 312918,
+                        "end": 312928
+                    }
+                }
+            ]
+        }
+    }
+}
